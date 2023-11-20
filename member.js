@@ -1,4 +1,4 @@
-function SkillsMember() {
+function skillsMember() {
     this.id = 0;
     this.name = "";
     this.skills = [];
